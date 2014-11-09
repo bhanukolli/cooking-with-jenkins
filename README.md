@@ -14,6 +14,9 @@ vagrant-berkshelf and vagrant-omnibus plugins installed. It should
 work fine under Virtualbox, but I've been using VMware as it seems to
 cope better under load.
 
+Install DK
+http://downloads.getchef.com/chef-dk/ 
+
 # Usage
 
 Checkout this repository and run `vagrant up`.  When Vagrant finishes
